@@ -1,0 +1,17 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg,#37b39d,#31319d);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+canvas
+{
+    box-shadow: black 20px 10px 50px;
+}
